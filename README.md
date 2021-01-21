@@ -1,2 +1,2 @@
-# json_to_csv
-Script to convert a json file to csv (not finished)
+# JrDEngineerE
+Files for the technical exam for the Jr Data Engineer role (Not finished)
